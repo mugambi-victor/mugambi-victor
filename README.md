@@ -77,7 +77,7 @@ const victor = {
 
 <div align="center">
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mugambi-victor&repo=project-name-1&theme=tokyonight)](https://github.com/mugambi-victor/simple_shell)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mugambi-victor&repo=simple-shell&theme=tokyonight)](https://github.com/mugambi-victor/simple_shell)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mugambi-victor&repo=project-name-2&theme=tokyonight)](https://github.com/mugambi-victor/project-name-2)
 
 </div>
