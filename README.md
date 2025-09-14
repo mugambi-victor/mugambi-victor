@@ -74,7 +74,6 @@ const victor = {
 ---
 
 
----
 
 ## 🏆 Achievements & Certifications
 
@@ -84,7 +83,7 @@ const victor = {
 - 📚 Completed advanced Laravel and Vue.js courses
 - 🤝 Mentored junior developers in web development
 
----
+
 
 
 ---
