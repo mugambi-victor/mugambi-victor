@@ -36,9 +36,9 @@
 
 ## 📊 GitHub Stats  
 
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victormugambi&show_icons=true&theme=radical)  
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=mugambi-victor&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victormugambi&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mugambi-victor&layout=compact&theme=radical)  
 
 ---
 
